@@ -68,3 +68,9 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 
+## Author
+Muhib Ul Aziz
+MSc Data Science
+
+## License
+MIT License
