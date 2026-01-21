@@ -1,5 +1,7 @@
 # Histological Inflammation Severity Prediction
 
+![Machine Learning Workflow](https://github.com/muhib20/inflammation-severity-prediction/blob/4f9db05c2342a7fbe59b9b1fce75668ae99e80d9/Figures/workflow.png)
+
 This project investigates whether machine learning models trained on quantitative histological features can accurately predict inflammation severity scores (0–5) and binary inflammation status (<3 vs ≥3).
 
 The project was developed as part of an MSc-level machine learning coursework and follows best practices in patient-level evaluation and reproducible experimentation.
